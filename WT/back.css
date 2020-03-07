@@ -1,0 +1,14 @@
+ html {
+    background: url(img/back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+@media only screen and (max-width: 844px)
+{   html{
+    background: url(img/back.jpeg);
+    background-repeat: no-repeat;
+ 
+}
+}

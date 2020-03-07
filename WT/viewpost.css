@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+    height: 100%;
+}
+.postuser {
+    width: 700px;
+    height: auto;
+    border: black 1px solid;
+    padding: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+.user {
+    border-bottom: solid 1px grey;
+}
+.postdetail, .user {
+ text-align: left;
+}
